@@ -17,7 +17,7 @@ yarn build
 
 \\ HOSTING FIRESTORE //
 
-https://ottoklaus-b2956.web.app/login
+
 User : seba@seba.cl
 Pass : 123456
 
